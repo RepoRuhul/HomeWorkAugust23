@@ -1,8 +1,8 @@
 package hw3JavaVariables;
 
 public class AboutMe {
-	public String myInfo; // variable declared here.
-	public String myName = "Ruhul Kuddus Rana"; // variable initialized here.
+	public String myInfo; // variable declared
+	public String myName = "Ruhul Kuddus Rana"; // variable initialized
 	public byte myAge = 127;
 	public short myApartmentRent = 32767;
 	public int myYearlySalary = 2147483647;
@@ -12,12 +12,12 @@ public class AboutMe {
 	public char myGender = 'M';
 	public boolean usCitizen = false;
 
-	// Constructor declared here.
+	// Constructor declared
 	public AboutMe() {
 		System.out.println(":------------ This is all about Myself ------------:");
 	}
 
-	// method implemented here.
+	// method implemented
 	public void aboutMe() {
 		System.out.println("I am aboutMe method");
 	}

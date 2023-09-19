@@ -3,7 +3,7 @@ package hw3JavaVariables;
 public class AboutMeTest {
 
 	public static void main(String[] args) {
-		AboutMe aboutMe = new AboutMe(); // Constructor initialized here
+		AboutMe aboutMe = new AboutMe(); // Constructor initialized
 
 		System.out.println("-------------------------------------------------------------------------------");
 
