@@ -10,8 +10,7 @@ public class AboutMeTest {
 				+ aboutMe.myBankBalance + "\nGender: " + aboutMe.myGender + "\nMy Height: " + aboutMe.myHeight
 				+ "\nMy Grade: " + aboutMe.myGrade + "\nAm I US Citizen? Ans: " + aboutMe.usCitizen);
 
-		// method initialized
-		aboutMe.aboutMe();
+		aboutMe.aboutMe(); // method initialized
 
 	}
 
