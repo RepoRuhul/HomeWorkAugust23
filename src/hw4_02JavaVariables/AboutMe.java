@@ -1,4 +1,4 @@
-package hw4JavaVariables;
+package hw4_02JavaVariables;
 
 public class AboutMe {
 	// variables declared
