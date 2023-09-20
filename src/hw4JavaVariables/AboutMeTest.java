@@ -3,9 +3,9 @@ package hw4JavaVariables;
 public class AboutMeTest {
 
 	public static void main(String[] args) {
-		AboutMe rana = new AboutMe();
+		AboutMe rana = new AboutMe();// constructor initialized
 
-		rana.myName = "Ruhul Kuddus Rana";// variable declared
+		rana.myName = "Ruhul Kuddus Rana";// variable initialized
 		rana.myAge = 126;
 		rana.myApartmentRent = 383;
 		rana.myYearlySalary = 999999;
@@ -14,7 +14,7 @@ public class AboutMeTest {
 		rana.myGrade = 4.5;
 		rana.myGender = 'M';
 		rana.usCitizen = true;
-		rana.aboutMe();
+		rana.aboutMe();// method initialized
 		AboutMe alex = new AboutMe();
 		alex.myName = "Alex";
 		alex.myAge = 100;
